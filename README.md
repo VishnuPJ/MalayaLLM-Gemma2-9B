@@ -140,6 +140,6 @@ Enter instruction (or 'exit' to end):exit
 
 Thanks to [Unsloth](https://github.com/unslothai/unsloth), the process of fine-tuning large language models (LLMs) has become much easier and more efficient.
 
-<img src="https://cdn-uploads.huggingface.co/production/uploads/64e65800e44b2668a56f9731/WPt_FKUWDdc6--l_Qnb-G.png" alt="Unsloth" width="300" height="auto">
+<img src="https://cdn-uploads.huggingface.co/production/uploads/64e65800e44b2668a56f9731/WPt_FKUWDdc6--l_Qnb-G.png" alt="Unsloth" width="200" height="auto">
 
 # 🌟Happy coding💻🌟
