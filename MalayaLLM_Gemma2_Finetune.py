@@ -6,7 +6,10 @@ from unsloth import is_bfloat16_supported
 from transformers import TrainingArguments
 from trl import DataCollatorForCompletionOnlyLM
 from unsloth import UnslothTrainer, UnslothTrainingArguments
+import wandb
 
+wandb.login(key="<your wandb key>")
+wandb.init(project="Gemma_2_9B_MalayaLLM", name = "Finetune")
 
 max_seq_length = 2048 # Choose any! We auto support RoPE Scaling internally!
 dtype = None # None for auto detection. Float16 for Tesla T4, V100, Bfloat16 for Ampere+
