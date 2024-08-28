@@ -1,4 +1,4 @@
-# MalayaLLM: Gemma-2 [മലയാളം/Malayalam]
+# MalayaLLM: Gemma-2-9B [മലയാളം/Malayalam]
 
 <img src="https://github.com/VishnuPJ/MalayaLLM-Gemma2-9B/assets/54801493/19ea32ea-04ba-4198-aab3-cbcdd0c3bc7b" alt="Baby MalayaLLM" width="300" height="auto">
 
